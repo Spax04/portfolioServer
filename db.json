@@ -1,0 +1,38 @@
+{
+    "projects": [
+      {
+        "title": "Eshop",
+        "image": "https://sun9-9.userapi.com/impg/D3n1VpzDsit0vK8eUa7WETI7kZLI60I_1zn_PQ/nvhuwUho0MY.jpg?size=509x339&quality=96&sign=51e89aaa23963c50895a91d5c3fbd0ce&type=album",
+        "description": "Ecommercy project I have created to improve my full stack skills. Project created with MERN stack.",
+        "stack": ["ReactJS", "Express", "MongoDB", "NodeJS"],
+        "link": "https://github.com/Spax04/Eshop"
+      },
+      {
+        "title": "Eshop",
+        "image": "https://sun9-9.userapi.com/impg/D3n1VpzDsit0vK8eUa7WETI7kZLI60I_1zn_PQ/nvhuwUho0MY.jpg?size=509x339&quality=96&sign=51e89aaa23963c50895a91d5c3fbd0ce&type=album",
+        "description": "Ecommercy project I have created to improve my full stack skills. Project created with MERN stack.",
+        "stack": ["ReactJS", "Express", "MongoDB", "NodeJS"],
+        "link": "https://github.com/Spax04/Eshop"
+      },
+      {
+        "title": "Eshop",
+        "image": "https://sun9-9.userapi.com/impg/D3n1VpzDsit0vK8eUa7WETI7kZLI60I_1zn_PQ/nvhuwUho0MY.jpg?size=509x339&quality=96&sign=51e89aaa23963c50895a91d5c3fbd0ce&type=album",
+        "description": "Ecommercy project I have created to improve my full stack skills. Project created with MERN stack.",
+        "stack": ["ReactJS", "Express", "MongoDB", "NodeJS"],
+        "link": "https://github.com/Spax04/Eshop"
+      }
+    ],
+    "skills":[
+      "angular.png",
+      "asp.png",
+      "c-sharp.png",
+      "express.png",
+      "git.png",
+      "javascrip.png",
+      "mongodb.png",
+      "nodejs.png",
+      "react.png",
+      "sql.png"
+    ]
+  }
+  
